@@ -11,6 +11,7 @@ import com.google.gwt.user.client.ui.IntegerBox;
 import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.RootPanel;
 import com.google.gwt.user.client.ui.TabPanel;
+import com.fallstudie.simulation.client.home.*;
 
 public class Simulation implements EntryPoint{
 	
@@ -20,7 +21,8 @@ public class Simulation implements EntryPoint{
 	Button btnLogout = new Button("Logout");
 	HorizontalPanel horizontalPanel = new HorizontalPanel();
 	AbsolutePanel absolutePanelEigenesUN = new AbsolutePanel();
-	AbsolutePanel [] absolutePanelUnternehmen = new AbsolutePanel[3];		
+	AbsolutePanel [] absolutePanelUnternehmen = new AbsolutePanel[3];	
+	AbsolutePanel[] absolutePanelJahre = new AbsolutePanel[100];
 	Label labelEigenesUnternehmen = new Label("Eigenes Unternehmen");
 	Label labelUmsatz = new Label("Umsatz:");
 	Label labelGewinn = new Label("Gewinn:");
@@ -51,13 +53,14 @@ public class Simulation implements EntryPoint{
 	Button buttonFolgejahr = new Button("Folgejahr");
 	AbsolutePanel absolutePanelJahrEins = new AbsolutePanel();
 	TabPanel tabPanelJahre = new TabPanel();
+	int jahr = 2;
 	
 	@Override
 	public void onModuleLoad() {
 		// allgemeine Panels
 		RootPanel rootPanel = RootPanel.get();
 		rootPanel.setSize("1024", "768");
-		rootPanel.add(absolutePanelSimulation, 0, 0);
+		rootPanel.add(absolutePanelSimulation, 10, 10);
 		absolutePanelSimulation.setSize("1056px", "768px");
 		
 		
@@ -85,7 +88,7 @@ public class Simulation implements EntryPoint{
 						labelNachfrageEUN.setSize("49px", "18px");
 					// weitere Unternehmen
 						// TODO: absolutePanelUnternehmen.length durch in der db gespeicherte Anzahl der UN ersetzen
-					for (int i=0; i<= absolutePanelUnternehmen.length; i++){
+					for (int i=0; i< absolutePanelUnternehmen.length; i++){
 						int j = i+1;
 						// neues Panel erzeugen 
 						absolutePanelUnternehmen[i] = new AbsolutePanel();
@@ -93,6 +96,7 @@ public class Simulation implements EntryPoint{
 						absolutePanelUnternehmen[i].setHeight("159px");
 						// "Überschrift" anbringen
 						labelUnternehmen[i] = new Label("Unternehmen " + j);
+						labelUnternehmen[i].setStyleName("gwt-UnternehmenLabel");
 						labelUnternehmen[i].setHorizontalAlignment(HasHorizontalAlignment.ALIGN_CENTER);
 						absolutePanelUnternehmen[i].add(labelUnternehmen[i],0,0);				
 						labelUnternehmen[i].setSize("224px", "18px");
@@ -158,7 +162,17 @@ public class Simulation implements EntryPoint{
 		buttonFolgejahr.setSize("127px", "35px");
 		buttonFolgejahr.addClickHandler(new ClickHandler() {
 			public void onClick(ClickEvent event) {
-				// TODO: weiteren Tab hinzufügen
+				// weiteren Tab hinzufügen			
+				absolutePanelJahre[jahr-2] = new AbsolutePanel();
+				tabPanelJahre.add(absolutePanelJahre[jahr-2], "Jahr" + jahr , false);
+				absolutePanelJahre[jahr-2].setSize("100%", "238");
+				// IntegerBoxen leeren
+				integerBoxMarketing.setValue(null);
+				integerBoxMaschinen.setValue(null);
+				integerBoxPersonal.setValue(null);
+				jahr++;
+				
+				
 			}
 		});
 		
@@ -176,8 +190,9 @@ public class Simulation implements EntryPoint{
 				// Button, um auf die Home-Seite zurückzukehren
 				labelHome.addClickHandler(new ClickHandler() {
 					public void onClick(ClickEvent event) {
-								
-						// TODO: Wechsel zu Home
+						RootPanel.get().clear();
+						HomeSimulation home = new HomeSimulation();
+						home.onModuleLoad();
 					}
 				});
 				

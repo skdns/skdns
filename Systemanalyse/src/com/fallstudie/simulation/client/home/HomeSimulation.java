@@ -14,6 +14,8 @@ import com.google.gwt.user.client.ui.HasHorizontalAlignment;
 import com.google.gwt.user.client.ui.HorizontalPanel;
 import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.RootPanel;
+import com.fallstudie.simulation.client.simulation.*;
+import com.fallstudie.simulation.client.unternehmen.UnternehmenSimulation;
 
 public class HomeSimulation implements EntryPoint{
 
@@ -51,7 +53,7 @@ public class HomeSimulation implements EntryPoint{
 		// allgemeine Panels
 		RootPanel rootPanel = RootPanel.get();
 		rootPanel.setSize("1024", "768");
-		rootPanel.add(absolutePanelHome, 10, 0);
+		rootPanel.add(absolutePanelHome, 0, 0);
 		absolutePanelHome.setSize("1024px", "768px");
 		
 		// Label, das anzeigt, wo der User sich befindet
@@ -107,6 +109,7 @@ public class HomeSimulation implements EntryPoint{
 				absolutePanelUnternehmen[i].setHeight("159px");
 				// "Überschrift" anbringen
 				labelUnternehmen[i] = new Label("Unternehmen " + j);
+				labelUnternehmen[i].setStyleName("gwt-UnternehmenLabel");
 				labelUnternehmen[i].setHorizontalAlignment(HasHorizontalAlignment.ALIGN_CENTER);
 				absolutePanelUnternehmen[i].add(labelUnternehmen[i],0,0);				
 				labelUnternehmen[i].setSize("224px", "18px");
@@ -142,7 +145,9 @@ public class HomeSimulation implements EntryPoint{
 		buttonUnternehmenBearbeiten.setSize("154px", "35px");
 		buttonUnternehmenBearbeiten.addClickHandler(new ClickHandler() {
 			public void onClick(ClickEvent event) {
-				// TODO: Zur Unternehmen bearbeiten Oberfläche wechseln
+				RootPanel.get().clear();
+				UnternehmenSimulation unternehmen = new UnternehmenSimulation();
+				unternehmen.onModuleLoad();
 			}
 		});
 		
@@ -152,14 +157,16 @@ public class HomeSimulation implements EntryPoint{
 		buttonSimulation.setSize("100px", "35px");
 		buttonSimulation.addClickHandler(new ClickHandler() {
 			public void onClick(ClickEvent event) {
-				// TODO: Zur Simulationsoberfläche wechseln
+				RootPanel.get().clear();
+				Simulation simulation = new Simulation();
+				simulation.onModuleLoad();
 			}
 		});
 		
 		
 		// Button zum ausloggen
 		absolutePanelHome.add(buttonLogout, 914, 10);
-		buttonLogout.setSize("100px", "35px");				
+		buttonLogout.setSize("100px", "35px");
 		buttonLogout.addClickHandler(new ClickHandler() {
 			public void onClick(ClickEvent event) {
 				// TODO: Daten in DB speichern und ausloggen

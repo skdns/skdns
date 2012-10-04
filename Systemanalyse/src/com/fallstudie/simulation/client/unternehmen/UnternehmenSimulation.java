@@ -7,11 +7,7 @@ import com.google.gwt.user.client.ui.Label;
 import com.google.gwt.user.client.ui.AbsolutePanel;
 import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.event.dom.client.ClickEvent;
-import com.google.gwt.user.client.ui.RadioButton;
-import com.google.gwt.user.client.ui.IntegerBox;
 import com.google.gwt.user.client.ui.TabPanel;
-import com.google.gwt.user.client.ui.TabBar;
-import com.google.gwt.user.cellview.client.CellTable;
 import com.google.gwt.user.client.ui.TextBox;
 
 public class UnternehmenSimulation implements EntryPoint{
@@ -22,6 +18,7 @@ public class UnternehmenSimulation implements EntryPoint{
 	@Override
 	public void onModuleLoad() {
 		// allgemeine Panels
+		System.out.println("Zugang");
 		RootPanel rootPanel = RootPanel.get();
 		rootPanel.setSize("1024", "768");		
 		rootPanel.add(absolutePanel, 0, 0);
@@ -31,9 +28,13 @@ public class UnternehmenSimulation implements EntryPoint{
 		absolutePanel.add(btnLogout, 914, 10);
 		btnLogout.setSize("100px", "35px");
 		
+		System.out.println("Button");
+		
 		TabPanel tabPanel = new TabPanel();
 		absolutePanel.add(tabPanel, 71, 88);
 		tabPanel.setSize("878px", "557px");
+		
+		System.out.println("Tab");
 		
 		AbsolutePanel absolutePanelEigenesUN = new AbsolutePanel();
 		tabPanel.add(absolutePanelEigenesUN, "Eigenes Unternehmen", false);
