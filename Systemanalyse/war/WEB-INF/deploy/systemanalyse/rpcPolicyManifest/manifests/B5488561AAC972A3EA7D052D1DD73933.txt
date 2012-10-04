@@ -1,0 +1,2 @@
+serviceClass: com.fallstudie.simulation.client.login.LoginService
+path: 166648066692DB2DCA7065B56A36D2A2.gwt.rpc

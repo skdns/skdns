@@ -1,0 +1,21 @@
+package com.fallstudie.simulation.shared;
+
+public class Maﬂnahmen {
+	
+	private int werbemaﬂnahmen;
+	// Konstruktor
+	Maﬂnahmen (int werbemaﬂnahmen){
+		this.werbemaﬂnahmen = werbemaﬂnahmen;
+	}
+	
+	// Getter-Setter-Methoden
+	public int getWerbemaﬂnahmen() {
+		return werbemaﬂnahmen;
+	}
+
+	public void setWerbemaﬂnahmen(int werbemaﬂnahmen) {
+		this.werbemaﬂnahmen = werbemaﬂnahmen;
+	}
+	
+
+}

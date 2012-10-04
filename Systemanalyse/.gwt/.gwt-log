@@ -1,0 +1,2986 @@
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2716 units from cache.
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2722 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 105: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 105: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Public resources found in...
+Translatable source found in...
+Removing invalidated units
+Finding entry point classes
+Found 2709 cached/archived units.  Used 2709 / 2722 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2722 cached/archived units.  Used 2722 / 2722 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2722 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2722 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+   Unexpected entry in classpath; D:\Java2\Systemanalyse\test is neither a directory nor an archive (.jar or .zip)
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2722 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2723 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2723 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.resources.client.CommonResources.Bundle
+   Adding '1' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2723 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/Simulation.java'
+      [ERROR] Line 32: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 95: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 95: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 96: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 96: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 97: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 97: nahme cannot be resolved
+      [ERROR] Line 99: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 99: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 100: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 100: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 101: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 101: nahmen cannot be resolved
+      [ERROR] Line 103: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 103: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 104: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 104: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 105: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 105: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2723 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/Simulation.java'
+      [ERROR] Line 32: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 95: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 95: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 96: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 96: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 97: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 97: nahme cannot be resolved
+      [ERROR] Line 99: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 99: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 100: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 100: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 101: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 101: nahmen cannot be resolved
+      [ERROR] Line 103: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 103: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 104: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 104: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 105: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 105: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2723 cached/archived units.  Used 2723 / 2723 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/Simulation.java'
+      [ERROR] Line 32: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 95: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 95: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 96: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 96: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 97: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 97: nahme cannot be resolved
+      [ERROR] Line 99: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 99: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 100: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 100: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 101: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 101: nahmen cannot be resolved
+      [ERROR] Line 103: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 103: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 104: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 104: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 105: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 105: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2723 cached/archived units.  Used 2723 / 2723 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/Simulation.java'
+      [ERROR] Line 32: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 95: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 95: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 96: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 96: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 97: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 97: nahme cannot be resolved
+      [ERROR] Line 99: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 99: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 100: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 100: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 101: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 101: nahmen cannot be resolved
+      [ERROR] Line 103: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 103: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 104: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 104: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 105: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 105: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Public resources found in...
+Translatable source found in...
+Removing invalidated units
+Finding entry point classes
+Found 2709 cached/archived units.  Used 2709 / 2723 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/Simulation.java'
+      [ERROR] Line 32: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 95: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 95: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 96: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 96: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 97: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 97: nahme cannot be resolved
+      [ERROR] Line 99: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 99: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 100: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 100: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 101: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 101: nahmen cannot be resolved
+      [ERROR] Line 103: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 103: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 104: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 104: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 105: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 105: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.cellview.client.CellTable.Resources
+   Invoking generator com.google.gwt.resources.rebind.context.InlineClientBundleGenerator
+      Preparing method cellTableFooterBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellTable.Resources.cellTableFooterBackground'
+      Preparing method cellTableHeaderBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellTable.Resources.cellTableHeaderBackground'
+      Preparing method cellTableLoading
+         Adding image 'com.google.gwt.user.cellview.client.CellTable.Resources.cellTableLoading'
+      Preparing method cellTableSelectedBackground
+         Adding image 'com.google.gwt.user.cellview.client.CellTable.Resources.cellTableSelectedBackground'
+      Preparing method cellTableSortAscending
+         Adding image 'com.google.gwt.user.cellview.client.CellTable.Resources.cellTableSortAscending'
+      Preparing method cellTableSortDescending
+         Adding image 'com.google.gwt.user.cellview.client.CellTable.Resources.cellTableSortDescending'
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.client.ui.impl.ClippedImageImpl.Template
+         Generating method body for image()
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.user.cellview.client.AbstractCellTable.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.google.gwt.user.cellview.client.AbstractCellTable.Template
+         Generating method body for div()
+         Generating method body for tbody()
+         Generating method body for td()
+         Generating method body for tdBothAlign()
+         Generating method body for tdHorizontalAlign()
+         Generating method body for tdVerticalAlign()
+         Generating method body for tfoot()
+         Generating method body for thead()
+         Generating method body for tr()
+   Adding '1' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/Simulation.java'
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 38: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 114: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 114: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 115: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 115: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 116: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 116: nahme cannot be resolved
+      [ERROR] Line 118: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 118: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 119: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 119: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 120: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 120: nahmen cannot be resolved
+      [ERROR] Line 122: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 122: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 123: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 123: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 124: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 124: nahmen cannot be resolved
+      [ERROR] Line 202: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 202: nahme cannot be resolved
+      [ERROR] Line 203: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 203: nahmen cannot be resolved
+      [ERROR] Line 204: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 204: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/Simulation.java'
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 38: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 114: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 114: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 115: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 115: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 116: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 116: nahme cannot be resolved
+      [ERROR] Line 118: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 118: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 119: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 119: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 120: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 120: nahmen cannot be resolved
+      [ERROR] Line 122: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 122: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 123: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 123: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 124: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 124: nahmen cannot be resolved
+      [ERROR] Line 202: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 202: nahme cannot be resolved
+      [ERROR] Line 203: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 203: nahmen cannot be resolved
+      [ERROR] Line 204: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 204: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/Simulation.java'
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 38: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 114: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 114: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 115: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 115: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 116: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 116: nahme cannot be resolved
+      [ERROR] Line 118: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 118: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 119: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 119: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 120: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 120: nahmen cannot be resolved
+      [ERROR] Line 122: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 122: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 123: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 123: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 124: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 124: nahmen cannot be resolved
+      [ERROR] Line 202: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 202: nahme cannot be resolved
+      [ERROR] Line 203: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 203: nahmen cannot be resolved
+      [ERROR] Line 204: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 204: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/Simulation.java'
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 38: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 114: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 114: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 115: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 115: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 116: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 116: nahme cannot be resolved
+      [ERROR] Line 118: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 118: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 119: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 119: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 120: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 120: nahmen cannot be resolved
+      [ERROR] Line 122: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 122: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 123: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 123: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 124: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 124: nahmen cannot be resolved
+      [ERROR] Line 202: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 202: nahme cannot be resolved
+      [ERROR] Line 203: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 203: nahmen cannot be resolved
+      [ERROR] Line 204: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 204: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2724 cached/archived units.  Used 2724 / 2724 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/LoginSimulation.java'
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+      [ERROR] Line 107: Syntax error on token "boolean", Dimensions expected after this token
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/Simulation.java'
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 38: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 114: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 114: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 115: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 115: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 116: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 116: nahme cannot be resolved
+      [ERROR] Line 118: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 118: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 119: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 119: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 120: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 120: nahmen cannot be resolved
+      [ERROR] Line 122: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 122: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 123: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 123: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 124: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 124: nahmen cannot be resolved
+      [ERROR] Line 202: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 202: nahme cannot be resolved
+      [ERROR] Line 203: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 203: nahmen cannot be resolved
+      [ERROR] Line 204: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 204: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/Simulation.java'
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 38: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 114: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 114: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 115: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 115: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 116: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 116: nahme cannot be resolved
+      [ERROR] Line 118: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 118: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 119: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 119: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 120: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 120: nahmen cannot be resolved
+      [ERROR] Line 122: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 122: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 123: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 123: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 124: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 124: nahmen cannot be resolved
+      [ERROR] Line 202: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 202: nahme cannot be resolved
+      [ERROR] Line 203: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 203: nahmen cannot be resolved
+      [ERROR] Line 204: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 204: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/Simulation.java'
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 38: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 114: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 114: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 115: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 115: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 116: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 116: nahme cannot be resolved
+      [ERROR] Line 118: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 118: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 119: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 119: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 120: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 120: nahmen cannot be resolved
+      [ERROR] Line 122: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 122: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 123: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 123: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 124: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 124: nahmen cannot be resolved
+      [ERROR] Line 202: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 202: nahme cannot be resolved
+      [ERROR] Line 203: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 203: nahmen cannot be resolved
+      [ERROR] Line 204: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 204: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/Simulation.java'
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 38: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 114: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 114: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 115: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 115: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 116: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 116: nahme cannot be resolved
+      [ERROR] Line 118: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 118: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 119: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 119: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 120: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 120: nahmen cannot be resolved
+      [ERROR] Line 122: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 122: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 123: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 123: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 124: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 124: nahmen cannot be resolved
+      [ERROR] Line 202: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 202: nahme cannot be resolved
+      [ERROR] Line 203: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 203: nahmen cannot be resolved
+      [ERROR] Line 204: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 204: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/Simulation.java'
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 38: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 114: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 114: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 115: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 115: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 116: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 116: nahme cannot be resolved
+      [ERROR] Line 118: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 118: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 119: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 119: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 120: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 120: nahmen cannot be resolved
+      [ERROR] Line 122: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 122: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 123: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 123: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 124: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 124: nahmen cannot be resolved
+      [ERROR] Line 202: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 202: nahme cannot be resolved
+      [ERROR] Line 203: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 203: nahmen cannot be resolved
+      [ERROR] Line 204: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 204: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/home/HomeSimulation.java'
+      [ERROR] Line 74: The method getUnternehmen() in the type HomeService is not applicable for the arguments (AsyncCallback<List<Unternehmen>>)
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/simulation/Simulation.java'
+      [ERROR] Line 33: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 34: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 35: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 36: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 37: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 38: Syntax error on token "Invalid Character", , expected
+      [ERROR] Line 114: labelMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 114: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 115: integerBoxMarketingMa.nahme cannot be resolved or is not a field
+      [ERROR] Line 115: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 116: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 116: nahme cannot be resolved
+      [ERROR] Line 118: labelMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 118: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 119: integerBoxMaschinenMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 119: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 120: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 120: nahmen cannot be resolved
+      [ERROR] Line 122: labelPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 122: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 123: integerBoxPersonalMa.nahmen cannot be resolved or is not a field
+      [ERROR] Line 123: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 124: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 124: nahmen cannot be resolved
+      [ERROR] Line 202: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 202: nahme cannot be resolved
+      [ERROR] Line 203: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 203: nahmen cannot be resolved
+      [ERROR] Line 204: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 204: nahmen cannot be resolved
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2724 units from cache.
+Validating units:
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/client/home/HomeSimulation.java'
+      [ERROR] Line 74: The method getUnternehmen() in the type HomeService is not applicable for the arguments (AsyncCallback<List<Unternehmen>>)
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/EigenesUnternehmen.java'
+      [ERROR] Line 1: Implicit super constructor Unternehmen() is undefined. Must explicitly invoke another constructor
+      [ERROR] Line 8: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 8: nahmen cannot be resolved to a type
+      [ERROR] Line 8: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 14: Syntax error on tokens, delete these tokens
+      [ERROR] Line 14: Syntax error on token ",", ; expected
+      [ERROR] Line 14: Syntax error on token ")", ; expected
+      [ERROR] Line 15: Constructor call must be the first statement in a constructor
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 18: nahmen cannot be resolved
+      [ERROR] Line 18: nahmen cannot be resolved to a type
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 18: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 20: Syntax error, insert "}" to complete Block
+      [ERROR] Line 36: Syntax error on token "Invalid Character", ( expected
+      [ERROR] Line 36: nahmen cannot be resolved to a type
+      [ERROR] Line 36: Syntax error, insert ")" to complete ConstructorDeclaration
+      [ERROR] Line 36: Syntax error, insert ";" to complete ConstructorDeclaration
+      [ERROR] Line 36: Return type for the method is missing
+      [ERROR] Line 36: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 37: nahmen cannot be resolved to a type
+      [ERROR] Line 37: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: void is an invalid type for the variable setMa
+      [ERROR] Line 39: Syntax error on token "Invalid Character", ; expected
+      [ERROR] Line 39: Return type for the method is missing
+      [ERROR] Line 39: Duplicate method nahmen() in type EigenesUnternehmen
+      [ERROR] Line 39: Ma.nahmen cannot be resolved to a type
+      [ERROR] Line 39: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 39: Syntax error on tokens, delete these tokens
+      [ERROR] Line 40: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 40: Syntax error on token "Invalid Character", . expected
+   [ERROR] Errors in 'file:/D:/Java2/Systemanalyse/src/com/fallstudie/simulation/shared/Maﬂnahmen.java'
+      [ERROR] Line 3: The public type Ma must be defined in its own file
+      [ERROR] Line 3: Syntax error on tokens, delete these tokens
+      [ERROR] Line 3: Syntax error, insert "}" to complete Block
+      [ERROR] Line 7: Return type for the method is missing
+      [ERROR] Line 7: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 7: Syntax error on tokens, delete these tokens
+      [ERROR] Line 8: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 8: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 12: Return type for the method is missing
+      [ERROR] Line 13: The primitive type int of werbema does not have a field nahmen
+      [ERROR] Line 13: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 16: void is an invalid type for the variable setWerbema
+      [ERROR] Line 16: Return type for the method is missing
+      [ERROR] Line 16: Duplicate method nahmen(int) in type Ma
+      [ERROR] Line 16: Syntax error on tokens, delete these tokens
+      [ERROR] Line 17: Syntax error on token "Invalid Character", invalid AssignmentOperator
+      [ERROR] Line 17: Syntax error on token "Invalid Character", . expected
+      [ERROR] Line 21: Syntax error on token "}", delete this token
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.user.client.impl.WindowImplIE.Resources
+   Adding '1' new generated units
+      Removing invalidated units
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2709 cached/archived units.  Used 2709 / 2709 units from cache.
+Removing invalidated units
+Finding entry point classes

@@ -1,0 +1,2 @@
+serviceClass: com.fallstudie.simulation.client.home.HomeService
+path: E55F8F27EF7A6383AB1B0371D8BF261C.gwt.rpc
