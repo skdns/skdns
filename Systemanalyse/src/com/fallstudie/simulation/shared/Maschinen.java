@@ -6,13 +6,7 @@ public class Maschinen {
 	private int nutzungsDauer;
 	private int noetigeMitarbeiter;
 	private double buchwert;
-	//Konstruktor
-	Maschinen(int kapazitaet, int nutzungsDauer, int noetigeMitarbeiter, double buchwert){
-		this.kapazitaet = kapazitaet;
-		this.nutzungsDauer = nutzungsDauer;
-		this.noetigeMitarbeiter = noetigeMitarbeiter;
-		this.buchwert = buchwert;
-	}
+
 	
 	// Getter-Setter-Methoden
 	public int getKapazitaet() {

@@ -78,7 +78,8 @@ public class LoginSimulation  implements EntryPoint{
 					user1.setKennwort(textBoxKennwort.getText());
 					user1.setUsername(textBoxUsername.getText());
 					
-					// TODO: Kontrolle, ob die Daten in der DB vorhanden sind
+					
+					// Kontrolle, ob die Daten in der DB vorhanden sind
 					// setze AnmeldeBestaetigung = true oder false
 					AsyncCallback<Boolean> callback = new AsyncCallback<Boolean>() {
 						
@@ -92,7 +93,7 @@ public class LoginSimulation  implements EntryPoint{
 								AnmeldeBestaetigung = result;	
 								if (AnmeldeBestaetigung == true)
 								{
-									// TODO: In die Startoberfläche wechseln
+									// In die Startoberfläche wechseln
 									LabelAnmeldeFehlschlag.setText("Daten korrekt.");
 									RootPanel.get().clear();
 									HomeSimulation home = new HomeSimulation();

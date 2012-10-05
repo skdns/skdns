@@ -5,20 +5,8 @@ public class EigenesUnternehmen extends Unternehmen{
 	
 	private double fixkosten;
 	private Maschinen maschinen;
-	private Maﬂnahmen maﬂnahmen;
-	private int mitarbeiterGehalt;
+	private int mitarbeiterGehalt;	
 	private int mitarbeiterAnzahl;
-	// Konstruktor
-	EigenesUnternehmen(int umsatz, int gewinn, double marktAnteil,
-			double nachfrageTendenz, Produkt produkt, double fixkosten, 
-			Maschinen maschinen, Maﬂnahmen maﬂnahmen, int mitarbeiterGehalt, int mitarbeiterAnzahl) {
-		super(umsatz, gewinn, marktAnteil, nachfrageTendenz, produkt);
-		this.fixkosten = fixkosten;
-		this.maschinen = maschinen;
-		this.maﬂnahmen = maﬂnahmen;
-		this.mitarbeiterGehalt = mitarbeiterGehalt;
-		this.mitarbeiterAnzahl = mitarbeiterAnzahl;
-	}
 	
 	// Getter-Setter-Methoden
 	public double getFixkosten() {
@@ -33,12 +21,6 @@ public class EigenesUnternehmen extends Unternehmen{
 	public void setMaschinen(Maschinen maschinen) {
 		this.maschinen = maschinen;
 	}
-	public Maﬂnahmen getMaﬂnahmen() {
-		return maﬂnahmen;
-	}
-	public void setMaﬂnahmen(Maﬂnahmen maﬂnahmen) {
-		this.maﬂnahmen = maﬂnahmen;
-	}
 	public int getMitarbeiterGehalt() {
 		return mitarbeiterGehalt;
 	}
@@ -51,5 +33,6 @@ public class EigenesUnternehmen extends Unternehmen{
 	public void setMitarbeiterAnzahl(int mitarbeiterAnzahl) {
 		this.mitarbeiterAnzahl = mitarbeiterAnzahl;
 	}
+	
 
 }

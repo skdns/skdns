@@ -5,17 +5,9 @@ public class Unternehmen {
 	private int umsatz;
 	private int gewinn;
 	private double marktAnteil;
-	private double nachfrageTendenz;
+	private String nachfrageTendenz;
 	private Produkt produkt;
-	// Konstruktor
-	Unternehmen (int umsatz, int gewinn, double marktAnteil, double nachfrageTendenz, Produkt produkt){
-		
-		this.umsatz = umsatz;
-		this.gewinn = gewinn;
-		this.marktAnteil = marktAnteil;
-		this.nachfrageTendenz = nachfrageTendenz;
-		this.produkt = produkt;
-	}
+	 
 	
 	// Getter-Setter-Methoden
 	public int getUmsatz() {
@@ -36,10 +28,10 @@ public class Unternehmen {
 	public void setGewinn(int gewinn) {
 		this.gewinn = gewinn;
 	}
-	public double getNachfrageTendenz() {
+	public String getNachfrageTendenz() {
 		return nachfrageTendenz;
 	}
-	public void setNachfrageTendenz(double nachfrageTendenz) {
+	public void setNachfrageTendenz(String nachfrageTendenz) {
 		this.nachfrageTendenz = nachfrageTendenz;
 	}
 	public Produkt getProdukt() {

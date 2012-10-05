@@ -2,6 +2,7 @@ package com.fallstudie.simulation.client.home;
 
 import java.util.List;
 
+import com.fallstudie.simulation.shared.EigenesUnternehmen;
 import com.fallstudie.simulation.shared.Unternehmen;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
@@ -45,6 +46,10 @@ public class HomeSimulation implements EntryPoint{
 	Label [] labelMarktanteilUnternehmenWert = new Label[3];
 	Label [] labelNachfrageTendenzUnternehmen = new Label [3];
 	Label [] labelNachfrageTendenzUnternehmenWert = new Label [3];
+	Label labelAusgeloggt = new Label("Sie wurden erfolgreich ausgeloggt.");
+	int anzahlUnternehmen;
+	public EigenesUnternehmen eigenesUN = new EigenesUnternehmen();
+	public Unternehmen [] unternehmen = new Unternehmen[3];
 	
 	private HomeServiceAsync service = GWT.create(HomeService.class);
 	
@@ -63,13 +68,31 @@ public class HomeSimulation implements EntryPoint{
 
 			@Override
 			public void onFailure(Throwable caught) {
-				// TODO Auto-generated method stub
+				// TODO on Failure
 				
 			}
 
 			@Override
 			public void onSuccess(List<Unternehmen> result) {
-				// TODO Auto-generated method stub
+				// Anzahl der Unternehmen die in der Datenbank vorhanden sind
+				// -1, da eigenes Unternehmen getrennt behandelt wird in dieser Klasse
+				anzahlUnternehmen = result.size() -1;
+				
+				// Labels mit den aus der Datenbank zurück gegebenen Daten befüllen
+				eigenesUN.setGewinn(result.get(0).getGewinn());
+				eigenesUN.setMarktAnteil(result.get(0).getMarktAnteil());
+				eigenesUN.setNachfrageTendenz(result.get(0).getNachfrageTendenz());
+				eigenesUN.setUmsatz(result.get(0).getUmsatz());
+				eigenesUN.setProdukt(result.get(0).getProdukt());
+				
+				for (int i=1; i< result.size(); i++){
+					unternehmen[i] = new Unternehmen();
+					unternehmen[i].setGewinn(result.get(i).getGewinn());
+					unternehmen[i].setMarktAnteil(result.get(i).getMarktAnteil());
+					unternehmen[i].setNachfrageTendenz(result.get(i).getNachfrageTendenz());
+					unternehmen[i].setUmsatz(result.get(i).getUmsatz());
+					unternehmen[i].setProdukt(result.get(i).getProdukt());
+				}
 				
 			}
 			
@@ -84,6 +107,11 @@ public class HomeSimulation implements EntryPoint{
 			horizontalPanel.add(absolutePanelEigenesUN);
 			absolutePanelEigenesUN.setHeight("159px");
 				// Label
+				labelUmsatzEUN.setText(eigenesUN.getUmsatz() + " €");
+				labelGewinnEUN.setText(eigenesUN.getGewinn() + " €");
+				labelMarktanteilEUN.setText(eigenesUN.getMarktAnteil() + " %");
+				labelNachfrageEUN.setText(eigenesUN.getNachfrageTendenz());
+				
 				labelEigenesUnternehmen.setStyleName("gwt-UnternehmenLabel");
 				labelEigenesUnternehmen.setHorizontalAlignment(HasHorizontalAlignment.ALIGN_CENTER);
 				absolutePanelEigenesUN.add(labelEigenesUnternehmen, 0, 0);
@@ -92,7 +120,7 @@ public class HomeSimulation implements EntryPoint{
 				absolutePanelEigenesUN.add(labelGewinn, 10, 48);		
 				absolutePanelEigenesUN.add(labelMarktanteil, 10, 72);
 				absolutePanelEigenesUN.add(labelNachfrageTendenz, 10, 96);
-				absolutePanelEigenesUN.add(labelUmsatzEUN, 129, 24);		
+				absolutePanelEigenesUN.add(labelUmsatzEUN, 129, 24);	
 				absolutePanelEigenesUN.add(labelGewinnEUN, 129, 48);
 				labelGewinnEUN.setSize("32px", "18px");		
 				absolutePanelEigenesUN.add(labelMarktanteilEUN, 129, 72);
@@ -100,7 +128,7 @@ public class HomeSimulation implements EntryPoint{
 				absolutePanelEigenesUN.add(labelNachfrageEUN, 129, 96);
 				labelNachfrageEUN.setSize("49px", "18px");
 			// weitere Unternehmen
-				// TODO: absolutePanelUnternehmen.length durch in der db gespeicherte Anzahl der UN ersetzen
+				// TODO: absolutePanelUnternehmen.length durch anzahlUnternehmen ersetzen, wenn DB Daten zurückgibt
 			for (int i=0; i< absolutePanelUnternehmen.length; i++){
 				int j = i+1;
 				// neues Panel erzeugen 
@@ -118,11 +146,11 @@ public class HomeSimulation implements EntryPoint{
 				labelGewinnUnternehmen[i] = new Label("Gewinn: ");
 				labelMarktanteilUnternehmen[i] = new Label("Marktanteil:");
 				labelNachfrageTendenzUnternehmen[i] = new Label("Nachfragetendenz:");
-				//TODO: Werte aus der DB übernehmen
-				labelUmsatzUnternehmenWert[i] = new Label("0.00");
-				labelGewinnUnternehmenWert[i] = new Label("0.00");
-				labelMarktanteilUnternehmenWert[i] = new Label("0%");
-				labelNachfrageTendenzUnternehmenWert[i] = new Label("steigend");				
+				//Werte aus der DB übernehmen
+				labelUmsatzUnternehmenWert[i] = new Label(unternehmen[i].getUmsatz() + " €");
+				labelGewinnUnternehmenWert[i] = new Label(unternehmen[i].getGewinn() + " €");
+				labelMarktanteilUnternehmenWert[i] = new Label(unternehmen[i].getMarktAnteil() + " %");
+				labelNachfrageTendenzUnternehmenWert[i] = new Label(unternehmen[i].getNachfrageTendenz());				
 				// Labels auf dem Panel anbringen
 				absolutePanelUnternehmen[i].add(labelUmsatzUnternehmen[i], 10, 24);		
 				absolutePanelUnternehmen[i].add(labelGewinnUnternehmen[i], 10, 48);		
@@ -169,7 +197,10 @@ public class HomeSimulation implements EntryPoint{
 		buttonLogout.setSize("100px", "35px");
 		buttonLogout.addClickHandler(new ClickHandler() {
 			public void onClick(ClickEvent event) {
-				// TODO: Daten in DB speichern und ausloggen
+				// TODO: Daten an DB übergeben
+				
+				RootPanel.get().clear();
+				RootPanel.get().add(labelAusgeloggt);
 			}
 		});
 		
