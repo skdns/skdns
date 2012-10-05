@@ -1,7 +1,13 @@
 package com.fallstudie.simulation.shared;
 
-public class Maschinen {
+import java.io.Serializable;
+
+public class Maschinen implements Serializable{
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 2146454269437440148L;
 	private int kapazitaet;
 	private int nutzungsDauer;
 	private int noetigeMitarbeiter;

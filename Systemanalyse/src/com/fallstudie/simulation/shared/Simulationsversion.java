@@ -1,7 +1,13 @@
 package com.fallstudie.simulation.shared;
 
-public class Simulationsversion {
+import java.io.Serializable;
 
+public class Simulationsversion implements Serializable{
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -5014703323505969342L;
 	private int personal;
 	private int maschineWert;
 	private int maschineKapazitaet;
@@ -10,16 +16,20 @@ public class Simulationsversion {
 	
 	private int simulationsJahr;
 	private int version;
-	private Unternehmen unternehmen;
+	private int unternehmenID;
 	private int gewinn;
 	private int umsatz;
 	private double marktAnteil;
 	private double nachfrageTendenz;
 	
 	// Konstruktor
+	public Simulationsversion(){
+		
+	}
 	public Simulationsversion(int simulationsjahr, int version){
 		this.setSimulationsJahr(simulationsjahr);
 		this.setVersion(version);
+		this.setUnternehmenID(unternehmenID);
 		
 	}
 	
@@ -74,13 +84,6 @@ public class Simulationsversion {
 		this.version = version;
 	}
 
-	public Unternehmen getUnternehmen() {
-		return unternehmen;
-	}
-
-	public void setUnternehmen(Unternehmen unternehmen) {
-		this.unternehmen = unternehmen;
-	}
 
 	public int getGewinn() {
 		return gewinn;
@@ -112,5 +115,11 @@ public class Simulationsversion {
 
 	public void setNachfrageTendenz(double nachfrageTendenz) {
 		this.nachfrageTendenz = nachfrageTendenz;
+	}
+	public int getUnternehmenID() {
+		return unternehmenID;
+	}
+	public void setUnternehmenID(int unternehmenID) {
+		this.unternehmenID = unternehmenID;
 	}	
 }

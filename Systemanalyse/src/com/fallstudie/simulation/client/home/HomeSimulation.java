@@ -85,92 +85,28 @@ public class HomeSimulation implements EntryPoint{
 				eigenesUN.setUmsatz(result.get(0).getUmsatz());
 				eigenesUN.setProdukt(result.get(0).getProdukt());
 				
-				for (int i=1; i< result.size(); i++){
-					unternehmen[i] = new Unternehmen();
-					unternehmen[i].setGewinn(result.get(i).getGewinn());
-					unternehmen[i].setMarktAnteil(result.get(i).getMarktAnteil());
-					unternehmen[i].setNachfrageTendenz(result.get(i).getNachfrageTendenz());
-					unternehmen[i].setUmsatz(result.get(i).getUmsatz());
-					unternehmen[i].setProdukt(result.get(i).getProdukt());
+				for (int i=1; i< result.size() ; i++){
+					unternehmen[i-1] = new Unternehmen();
+					unternehmen[i-1].setGewinn(result.get(i).getGewinn());
+					unternehmen[i-1].setMarktAnteil(result.get(i).getMarktAnteil());
+					unternehmen[i-1].setNachfrageTendenz(result.get(i).getNachfrageTendenz());
+					unternehmen[i-1].setUmsatz(result.get(i).getUmsatz());
+					unternehmen[i-1].setProdukt(result.get(i).getProdukt());
 				}
-				
+				befuellen();
 			}
 			
 		};
 		
 		service.getUnternehmen(callback);
 		
-		// Panel, auf dem die Unternehmeninformationen angezeigt werden
-		absolutePanelHome.add(horizontalPanel, 60, 100);
-		horizontalPanel.setSize("894px", "160px");
-			// Eigenes Unternehmen		
-			horizontalPanel.add(absolutePanelEigenesUN);
-			absolutePanelEigenesUN.setHeight("159px");
-				// Label
-				labelUmsatzEUN.setText(eigenesUN.getUmsatz() + " €");
-				labelGewinnEUN.setText(eigenesUN.getGewinn() + " €");
-				labelMarktanteilEUN.setText(eigenesUN.getMarktAnteil() + " %");
-				labelNachfrageEUN.setText(eigenesUN.getNachfrageTendenz());
-				
-				labelEigenesUnternehmen.setStyleName("gwt-UnternehmenLabel");
-				labelEigenesUnternehmen.setHorizontalAlignment(HasHorizontalAlignment.ALIGN_CENTER);
-				absolutePanelEigenesUN.add(labelEigenesUnternehmen, 0, 0);
-				labelEigenesUnternehmen.setSize("224px", "18px");		
-				absolutePanelEigenesUN.add(labelUmsatz, 10, 24);		
-				absolutePanelEigenesUN.add(labelGewinn, 10, 48);		
-				absolutePanelEigenesUN.add(labelMarktanteil, 10, 72);
-				absolutePanelEigenesUN.add(labelNachfrageTendenz, 10, 96);
-				absolutePanelEigenesUN.add(labelUmsatzEUN, 129, 24);	
-				absolutePanelEigenesUN.add(labelGewinnEUN, 129, 48);
-				labelGewinnEUN.setSize("32px", "18px");		
-				absolutePanelEigenesUN.add(labelMarktanteilEUN, 129, 72);
-				labelMarktanteilEUN.setSize("32px", "18px");		
-				absolutePanelEigenesUN.add(labelNachfrageEUN, 129, 96);
-				labelNachfrageEUN.setSize("49px", "18px");
-			// weitere Unternehmen
-				// TODO: absolutePanelUnternehmen.length durch anzahlUnternehmen ersetzen, wenn DB Daten zurückgibt
-			for (int i=0; i< absolutePanelUnternehmen.length; i++){
-				int j = i+1;
-				// neues Panel erzeugen 
-				absolutePanelUnternehmen[i] = new AbsolutePanel();
-				horizontalPanel.add(absolutePanelUnternehmen[i]);
-				absolutePanelUnternehmen[i].setHeight("159px");
-				// "Überschrift" anbringen
-				labelUnternehmen[i] = new Label("Unternehmen " + j);
-				labelUnternehmen[i].setStyleName("gwt-UnternehmenLabel");
-				labelUnternehmen[i].setHorizontalAlignment(HasHorizontalAlignment.ALIGN_CENTER);
-				absolutePanelUnternehmen[i].add(labelUnternehmen[i],0,0);				
-				labelUnternehmen[i].setSize("224px", "18px");
-				// neue Labels erzeugen
-				labelUmsatzUnternehmen[i] = new Label("Umsatz:");
-				labelGewinnUnternehmen[i] = new Label("Gewinn: ");
-				labelMarktanteilUnternehmen[i] = new Label("Marktanteil:");
-				labelNachfrageTendenzUnternehmen[i] = new Label("Nachfragetendenz:");
-				//Werte aus der DB übernehmen
-				labelUmsatzUnternehmenWert[i] = new Label(unternehmen[i].getUmsatz() + " €");
-				labelGewinnUnternehmenWert[i] = new Label(unternehmen[i].getGewinn() + " €");
-				labelMarktanteilUnternehmenWert[i] = new Label(unternehmen[i].getMarktAnteil() + " %");
-				labelNachfrageTendenzUnternehmenWert[i] = new Label(unternehmen[i].getNachfrageTendenz());				
-				// Labels auf dem Panel anbringen
-				absolutePanelUnternehmen[i].add(labelUmsatzUnternehmen[i], 10, 24);		
-				absolutePanelUnternehmen[i].add(labelGewinnUnternehmen[i], 10, 48);		
-				absolutePanelUnternehmen[i].add(labelMarktanteilUnternehmen[i], 10, 72);
-				absolutePanelUnternehmen[i].add(labelNachfrageTendenzUnternehmen[i], 10, 96);				
-				absolutePanelUnternehmen[i].add(labelUmsatzUnternehmenWert[i], 129, 24);		
-				absolutePanelUnternehmen[i].add(labelGewinnUnternehmenWert[i], 129, 48);
-				labelGewinnUnternehmenWert[i].setSize("32px", "18px");		
-				absolutePanelUnternehmen[i].add(labelMarktanteilUnternehmenWert[i], 129, 72);
-				labelMarktanteilUnternehmenWert[i].setSize("32px", "18px");		
-				absolutePanelUnternehmen[i].add(labelNachfrageTendenzUnternehmenWert[i], 129, 96);
-				labelNachfrageTendenzUnternehmenWert[i].setSize("49px", "18px");				
-				
-			}
+		
 		
 
 		
 		// Button, um zur Unternehmen bearbeiten Oberfläche zu bearbeiten
 		absolutePanelHome.add(buttonUnternehmenBearbeiten, 275, 337);
-		buttonUnternehmenBearbeiten.setSize("154px", "35px");
+		buttonUnternehmenBearbeiten.setSize("200px", "35px");
 		buttonUnternehmenBearbeiten.addClickHandler(new ClickHandler() {
 			public void onClick(ClickEvent event) {
 				RootPanel.get().clear();
@@ -204,6 +140,74 @@ public class HomeSimulation implements EntryPoint{
 			}
 		});
 		
+		
+	}
+
+	private void befuellen() {	
+		// Panel, auf dem die Unternehmeninformationen angezeigt werden
+		absolutePanelHome.add(horizontalPanel, 60, 100);
+		horizontalPanel.setSize("894px", "160px");
+			// Eigenes Unternehmen		
+			horizontalPanel.add(absolutePanelEigenesUN);
+			absolutePanelEigenesUN.setHeight("159px");
+				// Label
+				labelUmsatzEUN.setText(eigenesUN.getUmsatz() + " €");
+				labelGewinnEUN.setText(eigenesUN.getGewinn() + " €");
+				labelMarktanteilEUN.setText(eigenesUN.getMarktAnteil() + " %");
+				labelNachfrageEUN.setText(eigenesUN.getNachfrageTendenz());
+				
+				labelEigenesUnternehmen.setStyleName("gwt-UnternehmenLabel");
+				labelEigenesUnternehmen.setHorizontalAlignment(HasHorizontalAlignment.ALIGN_CENTER);
+				absolutePanelEigenesUN.add(labelEigenesUnternehmen, 0, 0);
+				labelEigenesUnternehmen.setSize("224px", "18px");		
+				absolutePanelEigenesUN.add(labelUmsatz, 10, 24);		
+				absolutePanelEigenesUN.add(labelGewinn, 10, 48);		
+				absolutePanelEigenesUN.add(labelMarktanteil, 10, 72);
+				absolutePanelEigenesUN.add(labelNachfrageTendenz, 10, 96);
+				absolutePanelEigenesUN.add(labelUmsatzEUN, 129, 24);	
+				absolutePanelEigenesUN.add(labelGewinnEUN, 129, 48);
+				labelGewinnEUN.setSize("32px", "18px");		
+				absolutePanelEigenesUN.add(labelMarktanteilEUN, 129, 72);
+				labelMarktanteilEUN.setSize("49px", "18px");		
+				absolutePanelEigenesUN.add(labelNachfrageEUN, 129, 96);
+				labelNachfrageEUN.setSize("49px", "18px");
+			// weitere Unternehmen
+				// TODO: absolutePanelUnternehmen.length durch anzahlUnternehmen ersetzen, wenn DB Daten zurückgibt
+			for (int i=0; i< anzahlUnternehmen; i++){
+				int j = i+1;
+				// neues Panel erzeugen 
+				absolutePanelUnternehmen[i] = new AbsolutePanel();
+				horizontalPanel.add(absolutePanelUnternehmen[i]);
+				absolutePanelUnternehmen[i].setHeight("159px");
+				// "Überschrift" anbringen
+				labelUnternehmen[i] = new Label("Unternehmen " + j);
+				labelUnternehmen[i].setStyleName("gwt-UnternehmenLabel");
+				labelUnternehmen[i].setHorizontalAlignment(HasHorizontalAlignment.ALIGN_CENTER);
+				absolutePanelUnternehmen[i].add(labelUnternehmen[i],0,0);				
+				labelUnternehmen[i].setSize("224px", "18px");
+				// neue Labels erzeugen
+				labelUmsatzUnternehmen[i] = new Label("Umsatz:");
+				labelGewinnUnternehmen[i] = new Label("Gewinn: ");
+				labelMarktanteilUnternehmen[i] = new Label("Marktanteil:");
+				labelNachfrageTendenzUnternehmen[i] = new Label("Nachfragetendenz:");
+				//Werte aus der DB übernehmen
+				labelUmsatzUnternehmenWert[i] = new Label(unternehmen[i].getUmsatz() + " €");
+				labelGewinnUnternehmenWert[i] = new Label(unternehmen[i].getGewinn() + " €");
+				labelMarktanteilUnternehmenWert[i] = new Label(unternehmen[i].getMarktAnteil() + " %");
+				labelNachfrageTendenzUnternehmenWert[i] = new Label(unternehmen[i].getNachfrageTendenz());				
+				// Labels auf dem Panel anbringen
+				absolutePanelUnternehmen[i].add(labelUmsatzUnternehmen[i], 10, 24);		
+				absolutePanelUnternehmen[i].add(labelGewinnUnternehmen[i], 10, 48);		
+				absolutePanelUnternehmen[i].add(labelMarktanteilUnternehmen[i], 10, 72);
+				absolutePanelUnternehmen[i].add(labelNachfrageTendenzUnternehmen[i], 10, 96);				
+				absolutePanelUnternehmen[i].add(labelUmsatzUnternehmenWert[i], 129, 24);		
+				absolutePanelUnternehmen[i].add(labelGewinnUnternehmenWert[i], 129, 48);
+				labelGewinnUnternehmenWert[i].setSize("32px", "18px");		
+				absolutePanelUnternehmen[i].add(labelMarktanteilUnternehmenWert[i], 129, 72);
+				labelMarktanteilUnternehmenWert[i].setSize("49px", "18px");		
+				absolutePanelUnternehmen[i].add(labelNachfrageTendenzUnternehmenWert[i], 129, 96);
+				labelNachfrageTendenzUnternehmenWert[i].setSize("49px", "18px");						
+			}
 		
 	}
 }

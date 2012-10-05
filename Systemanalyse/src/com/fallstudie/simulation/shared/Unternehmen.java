@@ -1,6 +1,13 @@
 package com.fallstudie.simulation.shared;
 
-public class Unternehmen {
+import java.io.Serializable;
+
+public class Unternehmen implements Serializable {
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -2357420730817988050L;
 	
 	private int umsatz;
 	private int gewinn;

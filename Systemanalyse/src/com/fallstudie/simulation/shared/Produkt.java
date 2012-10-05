@@ -1,7 +1,13 @@
 package com.fallstudie.simulation.shared;
 
-public class Produkt {
+import java.io.Serializable;
+
+public class Produkt implements Serializable{
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -5316708476771163337L;
 	private int menge;
 	private double preis;
 

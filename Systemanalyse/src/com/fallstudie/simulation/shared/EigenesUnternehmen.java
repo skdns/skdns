@@ -1,8 +1,14 @@
 package com.fallstudie.simulation.shared;
 
-public class EigenesUnternehmen extends Unternehmen{
+import java.io.Serializable;
+
+public class EigenesUnternehmen extends Unternehmen implements Serializable{
 	
 	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 4999204198097484710L;
 	private double fixkosten;
 	private Maschinen maschinen;
 	private int mitarbeiterGehalt;	
